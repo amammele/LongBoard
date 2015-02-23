@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LongBoard</string>
+    <string name="StartButtonLable">Start</string>
+    <string name="StopButtonLable">Stop</string>
+    <string name="action_settings">Settings</string>
+    <string name="info">Waiting for GPS...</string>
+    <string name="unit_km">Kilometer</string>
+    <string name="unit_miles">Miles</string>
+    <string name="setting_unit">Measurement Unit</string>
+    <string name="about_menu_name">About</string>
+    <string name="about_message">Alexander Mammele Long Board app</string>
+    <string name="GPSButtonLabel">GPS</string>
+    <string name="TimerButtonLabel">Timer</string>
+    <string name="SpeedLabel">Speed</string>
+    <string name="LongitudeLabel">longitude</string>
+    <string name="LatitudeLabel">Latitude</string>
+    <string name="SpeedValue">0.0</string>
+    <string name="LongitudeValue">0.0</string>
+    <string name="LatitudeValue">0.0</string>
+    <string name="RefreshButtonLabel">Refresh</string>
+
+</resources>
